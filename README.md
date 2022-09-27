@@ -1,1 +1,0 @@
-# shopping-data-server
